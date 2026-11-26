@@ -1,0 +1,9 @@
+data/
+*.dta
+*.pdf
+*.docx
+.Rproj.user/
+.Rhistory
+.RData
+*.Rproj
+.DS_Store
